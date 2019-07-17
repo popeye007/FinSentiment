@@ -9,4 +9,4 @@ This is a list of projects supervised by Prof. Bao Yang at Shanghai Jiao Tong Un
 - https://github.com/nanabunny/accounting_financial_sentiment_dict_exp
 
 3. 高管签名识别项目
-- Data to be releaded.
+- Data to be released.
