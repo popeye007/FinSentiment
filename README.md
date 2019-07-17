@@ -1,6 +1,6 @@
 Text Analytics in Accounting and Finance (会计和金融文本分析)
 ---
-This is a list of projects supervised by Prof. Bao Yang at Shanghai Jiao Tong University. If you are interested in collabration, please feel free to contant <baoyang@sjtu.edu.cn>.
+This is a list of projects supervised by Prof. Bao Yang at Shanghai Jiao Tong University. If you are interested in collaboration, please feel free to contant <baoyang@sjtu.edu.cn>.
 
 
 1. PRP35项目“会计和金融领域情感分析语料库的构建和应用” （Construction and Application of Corpus for Sentiment Analysis in Accounting and Finance）
