@@ -1,5 +1,6 @@
-# Text Analytics in Finance and Accounting (会计和金融文本分析)
-# Author: Bao Yang; Email: baoyang@sjtu.edu.cn
+Text Analytics in Finance and Accounting (会计和金融文本分析)
+---
+Author: Bao Yang; Email: baoyang@sjtu.edu.cn
 
 1. PRP35项目“会计和金融情感分析”: https://docs.google.com/document/d/1t8JaSAKCNW5qnVjH58cF0LJYDdlz1oCRKu2fJXIwGls/edit?usp=sharing
 
